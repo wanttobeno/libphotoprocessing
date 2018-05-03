@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libphotoprocessing", "libphotoprocessing\libphotoprocessing.vcxproj", "{4993C547-D891-48D3-8CAB-C43787E0C23F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{53AD030B-25AF-4E23-BFC0-B6BE2C009E46}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4993C547-D891-48D3-8CAB-C43787E0C23F} = {4993C547-D891-48D3-8CAB-C43787E0C23F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4993C547-D891-48D3-8CAB-C43787E0C23F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4993C547-D891-48D3-8CAB-C43787E0C23F}.Debug|Win32.Build.0 = Debug|Win32
+		{4993C547-D891-48D3-8CAB-C43787E0C23F}.Release|Win32.ActiveCfg = Release|Win32
+		{4993C547-D891-48D3-8CAB-C43787E0C23F}.Release|Win32.Build.0 = Release|Win32
+		{53AD030B-25AF-4E23-BFC0-B6BE2C009E46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53AD030B-25AF-4E23-BFC0-B6BE2C009E46}.Debug|Win32.Build.0 = Debug|Win32
+		{53AD030B-25AF-4E23-BFC0-B6BE2C009E46}.Release|Win32.ActiveCfg = Release|Win32
+		{53AD030B-25AF-4E23-BFC0-B6BE2C009E46}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

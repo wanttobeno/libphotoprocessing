@@ -1,0 +1,18 @@
+
+
+就一个头文件，支持扩展，通过宏定义开启。
+
+
+完整扩展后支持的格式
+asc,dlm,txt,bmp,jpg,jpeg,jpe,jfif,jif,png,ppm,pgm.....
+
+视频格式,需要opencv支持
+avi,mov,asf,flv,mp4.....
+CImg<T>& load_video(const char *const filename,
+
+
+╮(╯▽╰)╭，把代码都写到一个头文件中去，只能吐槽下，不看了。
+
+
+
+
