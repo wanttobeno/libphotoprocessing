@@ -13,31 +13,31 @@
  
 原图 
 
-![picture.bmp](test/picture.bmp)
+![picture.bmp](Test/picture.bmp)
 
 以下是效果图，11种
 
-![picture_Filter_01.bmp](test/picture_Filter_01.bmp)
+![picture_Filter_01.bmp](Test/picture_Filter_01.bmp)
 
-![picture_Filter_02.bmp](test/picture_Filter_02.bmp)
+![picture_Filter_02.bmp](Test/picture_Filter_02.bmp)
 
-![picture_Filter_03.bmp](test/picture_Filter_03.bmp)
+![picture_Filter_03.bmp](Test/picture_Filter_03.bmp)
 
-![picture_Filter_04.bmp](test/picture_Filter_04.bmp)
+![picture_Filter_04.bmp](Test/picture_Filter_04.bmp)
 
-![picture_Filter_05.bmp](test/picture_Filter_05.bmp)
+![picture_Filter_05.bmp](Test/picture_Filter_05.bmp)
 
-![picture_Filter_06.bmp](test/picture_Filter_06.bmp)
+![picture_Filter_06.bmp](Test/picture_Filter_06.bmp)
 
-![picture_Filter_07.bmp](test/picture_Filter_07.bmp)
+![picture_Filter_07.bmp](Test/picture_Filter_07.bmp)
 
-![picture_Filter_08.bmp](test/picture_Filter_08.bmp)
+![picture_Filter_08.bmp](Test/picture_Filter_08.bmp)
 
-![picture_Filter_09.bmp](test/picture_Filter_09.bmp)
+![picture_Filter_09.bmp](Test/picture_Filter_09.bmp)
 
-![picture_Filter_10.bmp](test/picture_Filter_10.bmp)
+![picture_Filter_10.bmp](Test/picture_Filter_10.bmp)
 
-![picture_Filter_11.bmp](test/picture_Filter_11.bmp)
+![picture_Filter_11.bmp](Test/picture_Filter_11.bmp)
 
 
 
